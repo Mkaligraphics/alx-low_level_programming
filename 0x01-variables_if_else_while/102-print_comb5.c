@@ -11,7 +11,7 @@ int main(void)
 
 int one, two;
 
-for (one = 0; one < 98; one++)
+for (one = 0; one <= 98; one++)
 {
 for (two = one + 1; two <= 99; two++)
 {
