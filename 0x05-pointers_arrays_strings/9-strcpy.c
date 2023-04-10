@@ -1,7 +1,3 @@
-/*
- * Auth:Hillary Oyaro
- * File:9-strcpy.c
- */
 #include "main.h"
 #include <stdio.h>
 

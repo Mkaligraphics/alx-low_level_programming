@@ -1,7 +1,3 @@
-/*
- * Auth:Hillary Oyaro
- * File:3-puts.c
- */
 #include "main.h"
 /**
  * _puts - a function that prints a string

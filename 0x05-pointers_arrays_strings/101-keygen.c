@@ -1,14 +1,10 @@
-/*
- * Auth:Hillary Oyaro
- * File:101-keygen.c
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
 /**
  * main - Generates random valid passwords for the
- *        program 101-crackme.
+ *        program.
  *
  * Return: Always 0.
  */

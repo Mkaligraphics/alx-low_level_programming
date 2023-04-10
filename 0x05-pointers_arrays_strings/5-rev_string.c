@@ -1,7 +1,3 @@
-/*
- * Auth:Hillary Oyaro
- * File:5-rev_string.c
- */
 # include "main.h"
 /**
  * rev_string - a function that reverses a string

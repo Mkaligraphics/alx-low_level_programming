@@ -1,7 +1,3 @@
-/*
- * Auth:Hillary Oyaro
- * File:6-puts2.c
- */
 #include "main.h"
 /**
  * puts2 - Prints one char out of two of a string.
